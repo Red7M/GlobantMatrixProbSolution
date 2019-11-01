@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class HandlingExceptionsMain {
 
     /**
      * Exception handling Problems & Solutions
@@ -18,7 +18,7 @@ public class Main {
      * Also, if both n and p are zero, then the method must throw an exception.
      *
      */
-    public static void main(String[] args) {
+    protected static void main(String[] args) {
         HandlingExceptionProblemOne handlingOne = new HandlingExceptionProblemOne();
         handlingOne.divideXbyY();
 
