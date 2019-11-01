@@ -1,4 +1,4 @@
-package com.company;
+package HandlingException;
 
 public class HandlingExceptionsMain {
 
